@@ -1,0 +1,6 @@
+//this is a C program
+#include<stdio.h>
+int main(){
+    printf("Hello Crazy Developer\n");
+    return 0;
+}

@@ -1,0 +1,2 @@
+#we support only python3 in this IDE.
+print("Hello Crazy Developer")

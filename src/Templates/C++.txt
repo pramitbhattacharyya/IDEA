@@ -1,0 +1,7 @@
+// this is a c++ file
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Hello Crazy Developer\n";
+    return 0;
+}

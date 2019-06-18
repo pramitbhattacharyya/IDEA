@@ -1,0 +1,8 @@
+// this is a java program
+// change the class name before use to avoid error.
+import java.util.Scanner;
+public class Main{
+    public static void main(String[]args){
+        System.out.println("Hello Crazy Developer");
+    }
+}
